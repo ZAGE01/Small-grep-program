@@ -5,3 +5,4 @@ Kun ohjelma käynnistetään pelkällä ohjelman nimellä, käyttäjältä pyyde
 Kun ohjelmalle annetaan käynnistyksen yhteydessä ohjelman nimen lisäksi hakustringi ja samassa kansiossa olevan tiedoston nimi, hakee ohjelma stringiä tiedostosta ja jokainen rivi, jossa hakustringi esiintyy, tulostetaan käyttäjälle. Haluttaessa käyttäjä voi myös syöttää ohjelman nimen jälkeen lisäoption, joka kertoo tulosten yhteydessä rivinumerot, löydettyjen tulosten määrän tai molemmat. Käytettävät lisäoptiot ovat: “-oo”, “-ol” ja “-olo”.
 
 Ohjelma antaa käyttäjälle myös virheilmoitukset, jos käynnistyksessä ilmenee ongelmia. Tällaisia voivat olla esimerkiksi tilanteet, joissa annettua tiedostoa ei löytynyt kyseisestä kansiosta, argumentit ovat virheellisiä tai niitä on liian vähän tai paljon.
+
