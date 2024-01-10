@@ -1,0 +1,3 @@
+﻿  mygrep.cpp
+C:\Users\saket\source\repos\mygrep\mygrep\mygrep.cpp(21,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  mygrep.vcxproj -> C:\Users\saket\source\repos\mygrep\x64\Debug\mygrep.exe
